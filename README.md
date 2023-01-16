@@ -1,5 +1,12 @@
 # React-ToDo-List
 Minimalistic React ToDo List
+How To Use?
+Download the source code
+Unzip the folder
+Open terminal at the folder.
+Run 'npm install'
+Run 'npm start'
+And the To-Do List is ready to be used to organize and prioritize your daily tasks.
 <img width="1280" alt="Screenshot 2023-01-16 at 10 33 16 AM" src="https://user-images.githubusercontent.com/91141267/212602386-a3e03758-62c5-4db2-a984-e0fdbae4ddd6.png">
 <img width="1053" alt="Screenshot 2023-01-16 at 10 36 56 AM" src="https://user-images.githubusercontent.com/91141267/212602773-5b9f0bf0-0919-4827-8e98-d0d89c22e7e9.png">
 <img width="1053" alt="Screenshot 2023-01-16 at 10 37 10 AM" src="https://user-images.githubusercontent.com/91141267/212602788-6f83afd4-7fe5-42c2-b74f-d1b9a484ca01.png">
